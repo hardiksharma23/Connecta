@@ -55,5 +55,4 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 - **Screen Sharing:** Share your screen with others during a call.
 - **Authentication:** Secure sign-in and sign-up powered by Clerk.
 
-## License
-This project is licensed under the MIT License.
+
